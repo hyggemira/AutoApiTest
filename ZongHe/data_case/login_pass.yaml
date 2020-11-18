@@ -1,0 +1,2 @@
+- casedata: {"mobilephone": 13112345687, "pwd": 123456, "regname": "小小丸子"}
+  expect: {"status": 1, "code": "10001", "data": None, "msg": "登录成功"}
